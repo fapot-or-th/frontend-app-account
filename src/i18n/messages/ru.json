@@ -44,6 +44,8 @@
   "account.settings.field.name.verified.submitted.message": "Your identity verification request has been submitted and usually takes between 24 and 48 hours to complete.",
   "account.settings.field.name.verified.submitted.message.certificate": "When your request is approved, your updated name will appear on all associated certificates and public-facing records.",
   "account.settings.field.name.verified.submitted.message.header": "Your name change request is almost complete!",
+  "account.settings.field.phone.number": "Phone",
+  "account.settings.field.phone.number.empty": "Add phone number",
   "account.settings.field.email": "Email address (Sign in)",
   "account.settings.field.email.empty": "Add email address",
   "account.settings.field.email.confirmation": "We’ve sent a confirmation message to {value}. Click the link in the message to update your email address.",

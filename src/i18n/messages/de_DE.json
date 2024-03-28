@@ -44,6 +44,8 @@
   "account.settings.field.name.verified.submitted.message": "Ihre Anfrage zur Identitätsüberprüfung wurde übermittelt und dauert in der Regel zwischen 24 und 48 Stunden.",
   "account.settings.field.name.verified.submitted.message.certificate": "Wenn Ihre Anfrage genehmigt wird, erscheint Ihr aktualisierter Name auf allen zugehörigen Zertifikaten und öffentlich zugänglichen Aufzeichnungen.",
   "account.settings.field.name.verified.submitted.message.header": "Ihr Antrag auf Namensänderung ist fast abgeschlossen!",
+  "account.settings.field.phone.number": "Phone",
+  "account.settings.field.phone.number.empty": "Add phone number",
   "account.settings.field.email": "E-Mail Adresse (Anmelden)",
   "account.settings.field.email.empty": "E-Mail Adresse hinzufügen",
   "account.settings.field.email.confirmation": "Wir haben eine Bestätigungsnachricht an {value} gesendet. Klicken Sie auf den Link in der Nachricht, um Ihre E-Mail-Adresse zu aktualisieren.",

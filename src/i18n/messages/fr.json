@@ -44,6 +44,8 @@
   "account.settings.field.name.verified.submitted.message": "Votre demande de vérification d'identité a bien été envoyée et prend généralement entre 24 et 48 heures afin d'être validée.",
   "account.settings.field.name.verified.submitted.message.certificate": "Lorsque votre demande est approuvée, votre nouveau nom apparaîtra sur tous les certificats associés et les enregistrements publics.",
   "account.settings.field.name.verified.submitted.message.header": "Votre demande de changement de nom est presque terminée!",
+  "account.settings.field.phone.number": "Phone",
+  "account.settings.field.phone.number.empty": "Add phone number",
   "account.settings.field.email": "Adresse e-mail (Connexion)",
   "account.settings.field.email.empty": "Ajouter l'adresse e-mail",
   "account.settings.field.email.confirmation": "Un message de confirmation a été envoyé à {value}. Cliquer le lien dans le message afin de mettre à jour votre adresse email.",

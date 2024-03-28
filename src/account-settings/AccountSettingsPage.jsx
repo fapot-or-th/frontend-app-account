@@ -590,6 +590,15 @@ class AccountSettingsPage extends React.Component {
             />
             )}
 
+          <EditableField
+            name="phone_number"
+            type="text"
+            value={this.props.formValues.phone_number}
+            label={this.props.intl.formatMessage(messages['account.settings.field.phone.number'])}
+            emptyLabel={this.props.intl.formatMessage(messages['account.settings.field.phone.number.empty'])}
+            {...editableFieldProps}
+          />
+
           <EmailField
             name="email"
             label={this.props.intl.formatMessage(messages['account.settings.field.email'])}

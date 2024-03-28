@@ -44,6 +44,8 @@
   "account.settings.field.name.verified.submitted.message": "La tua richiesta di verifica dell&#39;identità è stata inviata e di solito richiede dalle 24 alle 48 ore per essere completata.",
   "account.settings.field.name.verified.submitted.message.certificate": "Quando la tua richiesta viene approvata, il tuo nome aggiornato apparirà su tutti i certificati associati e i record pubblici.",
   "account.settings.field.name.verified.submitted.message.header": "La tua richiesta di cambio nome è quasi completa!",
+  "account.settings.field.phone.number": "Phone",
+  "account.settings.field.phone.number.empty": "Add phone number",
   "account.settings.field.email": "Indirizzo email (Accesso)",
   "account.settings.field.email.empty": "Aggiungi indirizzo email",
   "account.settings.field.email.confirmation": "Abbiamo inviato un messaggio di conferma a {value}. Fai clic sul link nel messaggio per aggiornare il tuo indirizzo e-mail. ",

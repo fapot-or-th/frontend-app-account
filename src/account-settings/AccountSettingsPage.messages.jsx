@@ -211,6 +211,16 @@ const messages = defineMessages({
     defaultMessage: 'Your name change request is almost complete!',
     description: 'The header of the submitted alert indicating that a user\'s name has been submitted for verification',
   },
+  'account.settings.field.phone.number': {
+    id: 'account.settings.field.phone.number',
+    defaultMessage: 'Phone',
+    description: 'Label for account settings phone number field.',
+  },
+  'account.settings.field.phone.number.empty': {
+    id: 'account.settings.field.phone.number.empty',
+    defaultMessage: 'Add phone number',
+    description: 'Placeholder for empty account settings phone number field.',
+  },
   'account.settings.field.email': {
     id: 'account.settings.field.email',
     defaultMessage: 'Email address (Sign in)',

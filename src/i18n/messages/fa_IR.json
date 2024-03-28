@@ -44,6 +44,8 @@
   "account.settings.field.name.verified.submitted.message": "درخواست تأیید هویت شما ارسال شد و معمولاً بین 24 تا 48 ساعت طول می کشد تا تکمیل شود.",
   "account.settings.field.name.verified.submitted.message.certificate": "هنگامی که درخواست شما تأیید شد، نام روزآمد شما در همه گواهی‌های مرتبط و سوابق عمومی ظاهر خواهد شد.",
   "account.settings.field.name.verified.submitted.message.header": "درخواست تغییر نام شما تقریباً تکمیل شده‌است!",
+  "account.settings.field.phone.number": "Phone",
+  "account.settings.field.phone.number.empty": "Add phone number",
   "account.settings.field.email": "نشانی رایانامه ( ورود به سامانه)",
   "account.settings.field.email.empty": "افزودن نشانی رایانامه",
   "account.settings.field.email.confirmation": "ما پیام تأییدی به {value} ارسال کرده‌ایم. برای روزآمدسازی نشانی رایانامه خود، روی پیوند موجود در پیام کلیک کنید.",

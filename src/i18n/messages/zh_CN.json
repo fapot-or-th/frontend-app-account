@@ -44,6 +44,8 @@
   "account.settings.field.name.verified.submitted.message": "您的身份验证请求已提交，通常需要 24 到 48 小时才能完成。",
   "account.settings.field.name.verified.submitted.message.certificate": "当您的请求获得批准后，您更新后的姓名将出现在所有相关证书和面向公众的网页中。",
   "account.settings.field.name.verified.submitted.message.header": "您的姓名更改请求即将完成！",
+  "account.settings.field.phone.number": "Phone",
+  "account.settings.field.phone.number.empty": "Add phone number",
   "account.settings.field.email": "电子邮箱地址（登录）",
   "account.settings.field.email.empty": "添加电子邮箱地址",
   "account.settings.field.email.confirmation": "验证信息已发送至{value}。请点击消息中的链接以更新您的电子邮箱地址。",
